@@ -1,6 +1,10 @@
 ﻿# Summary
 
-In this project, I extract actionable insights from the 2024 Toronto Zoo Open Feedback Survey with 7000+ reviews from visitors. Specifically, after thoroughly cleaning and preprocessing the data, I perform the following analyses:
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/nathan.wheeler1819/viz/Zoo_Visitor_Experience_Dashboards/Cover)
+
+Analyzed 7,500+ visitor feedback responses to identify pain points, quantify impact on recommendations, and segment visitors into four actionable personas.
+
+Key Analyses and Findings:
 
 1. Topic modeling and sentiment analysis to extract 7 key themes of customer dissatisfaction (EDA_Topic_Modeling).
 2. Importance–performance quadrant mapping to identify low-hanging, high-impact, low-performing priorities (e.g. food services, parking, wayfinding) for operational improvement (EDA_Quadrant_Analysis).
